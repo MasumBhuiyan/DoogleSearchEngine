@@ -1,0 +1,10 @@
+Security in cloud computing: Opportunities and challenges
+Cloud Computing Security
+Cloud security issues
+MapReduce Online
+The concept of security
+Cobot Architecture
+The Management of Security in Cloud Computing
+CLOUD COMPUTING: Implementation, Management, and Security
+A history of architecture
+Cloud Computing Security
